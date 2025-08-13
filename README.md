@@ -2,7 +2,7 @@
 **Data Analyst | AI Enthusiast | MCA Student**
 
 🌱 Currently pursuing MCA and building projects in **Data Analytics**, **Machine Learning**, and **Generative AI**  
-💬 Ask me about **Python**, **SQL**, **Tableau**, **Power BI**, **Machine Learning**, and **AI Projects**  
+💬 Ask me about **Python**, **SQL**, **Tableau**, **Power BI**, **Machine Learning**, and **Artifical Intelligence**  
 📫 Reach me at: **bhardwajshweta266@gmail.com**  
 
 ## 🔗 Connect with me  
