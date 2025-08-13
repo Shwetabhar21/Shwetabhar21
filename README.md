@@ -36,7 +36,6 @@
 <p align="left">
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Google_Looker_Studio_logo.svg" alt="Looker Studio" width="40" height="40"/>
 </p>
 
 **Machine Learning & AI:**  
