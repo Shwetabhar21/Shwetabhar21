@@ -34,7 +34,7 @@
 
 **Data Analytics & BI:**  
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Microsoft_Office_Excel_%282019–present%29.svg/120px-Microsoft_Office_Excel_%282019–present%29.svg.png" alt="Excel"  width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Google_Looker_Studio_logo.svg" alt="Looker Studio" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40"/>
 </p>
